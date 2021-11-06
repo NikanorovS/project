@@ -94,7 +94,11 @@
     width: 1000px;
     height: 300px;
 }
-
+.button:hover {
+    background-color: #fff;
+    color: #fc5f45;
+    border: 1px solid #fc5f45;
+}
 .signature {
     color: #272727;
     font-size: 40px;
