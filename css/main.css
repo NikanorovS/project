@@ -398,11 +398,11 @@ body {
         height: 500px;
     }
     .header {
-        height: 130vmin;
+        height: 150vmin;
     }
     .controls {
-        right: 140px;
-        bottom: -19px;
+        right: 6px;
+        bottom: 274px;
     }
     .footer{
         width: 380px;
