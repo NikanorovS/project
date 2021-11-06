@@ -87,9 +87,10 @@
     left: 50%;
     top: 50%;
     position: relative;
-    overflow: hidden;
+    /*overflow: hidden;*/
     width: 1000px;
     height: 300px;
+    border: 1px solid;
 }
 
 .signature {
@@ -546,7 +547,7 @@ p {
 .wrapper-three {
     display: flex;
     position: relative;
-    width: 1230px;
+    width: 1140px;
     height: 419.50px;
     left: 50%;
     transform: translate(-50%);
