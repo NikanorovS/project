@@ -82,15 +82,17 @@
     text-align: center;
 }
 
+.flex-icons img {
+    width: 80%;
+}
 .wrapper {
     transform: translate(-50%, -30%);
     left: 50%;
     top: 50%;
     position: relative;
-    /*overflow: hidden;*/
+    overflow: hidden;
     width: 1000px;
     height: 300px;
-    border: 1px solid;
 }
 
 .signature {
